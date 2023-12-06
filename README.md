@@ -31,5 +31,7 @@ Notification Feature: Patients receive timely reminders one day prior to schedul
 5. Payment Integration: PayHere
 6. UI/UX Design: Figma
 
+   
+<img src="https://github.com/NethmiSilva/Tele-Doc/assets/91644460/6f110eb4-c23f-4f81-bf46-764317b7429d" width="600" height="600">
 
-![Group 357](https://github.com/NethmiSilva/Tele-Doc/assets/91644460/6f110eb4-c23f-4f81-bf46-764317b7429d)
+
